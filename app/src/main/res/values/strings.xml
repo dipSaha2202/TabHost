@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TabHost</string>
+    <string name="stop">Stop</string>
+    <string name="tab_two">Tab Two</string>
+    <string name="start">Start</string>
+    <string name="add_tab">Add Tab</string>
+</resources>
